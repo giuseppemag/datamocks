@@ -1,48 +1,48 @@
 {
   "teamMembers": [
     {
-      "teamMemberId": -1,
+      "Id": -1,
       "name": "Broken team member without function",
       "age": -1,
       "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Gerard Pastwa.jpg"
     },
     {
-      "teamMemberId": 1,
+      "Id": 1,
       "name": "Gerard Pastwa",
       "function": "CEO",
       "age": 38,
       "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Gerard Pastwa.JPG"
     },
     {
-      "teamMemberId": 2,
+      "Id": 2,
       "name": "Marijn Bom",
       "function": "Founding father",
       "age": 42,
       "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Marijn Bom.JPG"
     },
     {
-      "teamMemberId": 3,
+      "Id": 3,
       "name": "Alice Lauretta",
       "function": "Project manager",
       "age": 24,
       "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Alice Lauretta.jpg"
     },
     {
-      "teamMemberId": 4,
+      "Id": 4,
       "name": "Thomas Santoli",
       "function": "Very smart developer",
       "age": 25,
       "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Thomas Santoli.jpg"
     },
     {
-      "teamMemberId": 5,
+      "Id": 5,
       "name": "Judith Engberts",
       "function": "Human resources manager",
       "age": 26,
       "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Judith Engberts.JPG"
     },
     {
-      "teamMemberId": 6,
+      "Id": 6,
       "name": "Maarten van Rossum",
       "function": "Finance First Guy",
       "age": 29,
