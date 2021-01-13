@@ -1,48 +1,48 @@
 {
   "aboutUs": [
     {
-      "Id": -1,
+      "id": -1,
       "name": "Broken team member without function",
       "age": -1,
       "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Gerard Pastwa.jpg"
     },
     {
-      "Id": 1,
+      "id": 1,
       "name": "Gerard Pastwa",
       "function": "CEO",
       "age": 38,
       "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Gerard Pastwa.JPG"
     },
     {
-      "Id": 2,
+      "id": 2,
       "name": "Marijn Bom",
       "function": "Founding father",
       "age": 42,
       "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Marijn Bom.JPG"
     },
     {
-      "Id": 3,
+      "id": 3,
       "name": "Alice Lauretta",
       "function": "Project manager",
       "age": 24,
       "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Alice Lauretta.jpg"
     },
     {
-      "Id": 4,
+      "id": 4,
       "name": "Thomas Santoli",
       "function": "Very smart developer",
       "age": 25,
       "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Thomas Santoli.jpg"
     },
     {
-      "Id": 5,
+      "id": 5,
       "name": "Judith Engberts",
       "function": "Human resources manager",
       "age": 26,
       "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Judith Engberts.JPG"
     },
     {
-      "Id": 6,
+      "id": 6,
       "name": "Maarten van Rossum",
       "function": "Finance First Guy",
       "age": 29,
