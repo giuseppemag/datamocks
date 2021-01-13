@@ -1,32 +1,52 @@
 {
-  "posts": [
+  "teamMembers": [
     {
-      "id": 1,
-      "title": "hello 1"
+      "teamMemberId": -1,
+      "name": "Broken team member without function",
+      "age": -1,
+      "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Gerard Pastwa.jpg"
     },
     {
-      "id": 2,
-      "title": "hello 2"
+      "teamMemberId": 1,
+      "name": "Gerard Pastwa",
+      "function": "CEO",
+      "age": 38,
+      "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Gerard Pastwa.JPG"
     },
     {
-      "id": 3,
-      "title": "hello 3"
+      "teamMemberId": 2,
+      "name": "Marijn Bom",
+      "function": "Founding father",
+      "age": 42,
+      "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Marijn Bom.JPG"
     },
     {
-      "id": 4,
-      "title": "hello 4"
+      "teamMemberId": 3,
+      "name": "Alice Lauretta",
+      "function": "Project manager",
+      "age": 24,
+      "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Alice Lauretta.jpg"
     },
     {
-      "id": 5,
-      "title": "hello 5"
+      "teamMemberId": 4,
+      "name": "Thomas Santoli",
+      "function": "Very smart developer",
+      "age": 25,
+      "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Thomas Santoli.jpg"
     },
     {
-      "id": 6,
-      "title": "hello 6"
+      "teamMemberId": 5,
+      "name": "Judith Engberts",
+      "function": "Human resources manager",
+      "age": 26,
+      "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Judith Engberts.JPG"
     },
     {
-      "id": 7,
-      "title": "hello 8"
+      "teamMemberId": 6,
+      "name": "Maarten van Rossum",
+      "function": "Finance First Guy",
+      "age": 29,
+      "imageURL": "https://giustoragev2.blob.core.windows.net/shoppinger/people/Maarten van Rossum.jpg"
     }
   ],
   "profile": {
